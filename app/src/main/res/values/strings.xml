@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Converter</string>
+
+    <string-array name="categories">
+        <item>Length</item>
+        <item>Weight</item>
+        <item>Temperature</item>
+    </string-array>
+
+    <string-array name="length_units">
+        <item>Inch</item>
+        <item>Foot</item>
+        <item>Yard</item>
+        <item>Mile</item>
+        <item>Centimeter</item>
+        <item>Kilometer</item>
+    </string-array>
+
+    <string-array name="weight_units">
+        <item>Pound</item>
+        <item>Ounce</item>
+        <item>Ton</item>
+        <item>Kilogram</item>
+        <item>Gram</item>
+    </string-array>
+
+    <string-array name="temperature_units">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+
+    <string name="convert_button_text">Convert</string>
+    <string name="input_hint">Enter value</string>
+
+    <string name="error_invalid_number">Please enter a valid number</string>
+</resources>
