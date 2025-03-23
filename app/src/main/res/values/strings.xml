@@ -34,4 +34,8 @@
     <string name="input_hint">Enter value</string>
 
     <string name="error_invalid_number">Please enter a valid number</string>
+    <string name="category_label">Select Category:</string>
+    <string name="source_unit_label">Select Source Unit:</string>
+    <string name="target_unit_label">Select Target Unit:</string>
+    <string name="result_label">Result:</string>
 </resources>
